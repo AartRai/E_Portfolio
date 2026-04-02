@@ -44,7 +44,7 @@ const Certificates = () => {
   ];
 
   return (
-    <section id="certificates" className="py-20 px-4 sm:px-6 lg:px-8 bg-white dark:bg-dark-950" ref={ref}>
+    <section id="certificates" className="py-20 px-4 sm:px-6 lg:px-8 bg-white dark:bg-dark-900" ref={ref}>
       <div className="max-w-6xl mx-auto">
         <motion.h2
           initial={{ opacity: 0 }}

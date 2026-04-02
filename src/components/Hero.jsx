@@ -30,7 +30,7 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="min-h-screen flex items-center justify-center relative overflow-hidden dark:bg-dark-950"
+      className="min-h-screen flex items-center justify-center relative overflow-hidden dark:bg-dark-900"
     >
       <Background3D />
 

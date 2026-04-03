@@ -110,8 +110,9 @@ const Hero = () => {
             Preview CV
           </button>
           <a
-            href="/resume.pdf"
-            download
+            href="https://drive.google.com/file/d/1HADmB9gA_Pc__IUv-dJ5ze-NQVGIqlQb/view?usp=drive_link"
+            target="_blank"
+            rel="noopener noreferrer"
             className="btn-secondary flex items-center gap-2 px-8 py-3"
           >
             <Download size={20} />
@@ -134,7 +135,7 @@ const Hero = () => {
               </div>
               <div className="flex-1 w-full h-full">
                 <iframe
-                  src="/resume.pdf"
+                  src="https://drive.google.com/file/d/1HADmB9gA_Pc__IUv-dJ5ze-NQVGIqlQb/preview"
                   className="w-full h-full border-none"
                   title="Resume Preview"
                 />
@@ -147,8 +148,9 @@ const Hero = () => {
                   Close
                 </button>
                 <a
-                  href="/resume.pdf"
-                  download
+                  href="https://drive.google.com/file/d/1HADmB9gA_Pc__IUv-dJ5ze-NQVGIqlQb/view?usp=drive_link"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="btn-primary px-6 py-2 flex items-center gap-2"
                 >
                   <Download size={18} />

@@ -48,7 +48,7 @@ const Projects = () => {
           {
             _id: "1",
             title: "Localift – E-Commerce Platform",
-            description: "Challenge: Local business owners lacked a dedicated platform to manage online sales and product inventory efficiently.\nAction: Developed a full-stack MERN platform featuring secure JWT authentication, role-based access control, and real-time order updates.\nResult: Delivered a responsive merchant dashboard and a seamless shopping experience, increasing operational efficiency.",
+            description: "Challenge: Local business owners lacked a dedicated platform to manage online sales and product inventory efficiently.\nAction: Developed a full-stack platform specifically designed for local merchants and their direct customers, featuring secure authentication, role-based access control, and real-time order updates.\nResult: Delivered a responsive merchant dashboard and a seamless shopping experience, connecting local store owners with online buyers and increasing operational efficiency.",
             image: "/projects/ecommerce.png",
             technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io", "Tailwind CSS"],
             link: "#",
@@ -57,7 +57,7 @@ const Projects = () => {
           {
             _id: "2",
             title: "TechEvent – AI-Powered Event Finder",
-            description: "Challenge: Users struggled to find local tech events tailored to their specific interests and geographic location.\nAction: Engineered a Node.js + Express backend integrated with Google Gemini AI to dynamically generate and filter event listings.\nResult: Achieved 100% demo uptime with a resilient fallback mechanism and a highly responsive React frontend experience.",
+            description: "Challenge: Tech enthusiasts and students struggled to find local tech events tailored to their specific interests and geographic location.\nAction: Engineered an AI-powered backend to dynamically generate and filter event listings for tech community members seeking networking opportunities.\nResult: Achieved 100% demo uptime with a resilient fallback mechanism and a highly responsive frontend experience, connecting users with relevant tech meetups.",
             image: "/projects/event_ai.png",
             technologies: ["Node.js", "Express.js", "React.js", "Google Gemini AI", "JavaScript"],
             link: "#",
@@ -66,7 +66,7 @@ const Projects = () => {
           {
             _id: "3",
             title: "Quiz-Management System",
-            description: "Challenge: Manual quiz administration and grading are time-consuming and prone to human error in educational settings.\nAction: Developed a robust Java-based application with automated grading logic and a persistent file-handling system for results.\nResult: Eliminated grading errors and provided students with instant performance feedback, saving hours of manual work.",
+            description: "Challenge: Manual quiz administration and grading are time-consuming and prone to human error for teachers and educational institutions.\nAction: Developed a robust desktop application for educators and students, featuring automated grading logic and a persistent file-handling system for tracking student assessments.\nResult: Eliminated grading errors and provided students with instant performance feedback, saving educators hours of manual work and streamlining the testing process.",
             image: "/projects/quiz.png",
             technologies: ["Java", "Swing", "AWT", "File Handling"],
             link: "#",
@@ -75,7 +75,7 @@ const Projects = () => {
           {
             _id: "4",
             title: "PulseTrack – Health Monitoring",
-            description: "Challenge: Tracking health metrics manually is inconsistent, making it difficult for users to spot long-term vital trends.\nAction: Built a PHP/MySQL web app with a responsive dashboard for logging pulse rates and generating intuitive data visualizations.\nResult: Empowered users to proactively monitor their health and share accurate, long-term data with healthcare providers.",
+            description: "Challenge: Tracking health metrics manually is inconsistent, making it difficult for individuals and patients to spot long-term vital trends.\nAction: Built a responsive web application and dashboard designed for health-conscious users and patients to log pulse rates and generate intuitive medical data visualizations.\nResult: Empowered users to proactively monitor their health and share accurate, long-term cardiovascular data with their personal healthcare providers.",
             image: "/projects/pulse.png",
             technologies: ["PHP", "MySQL", "JavaScript", "HTML5", "CSS3"],
             link: "#",
@@ -84,7 +84,7 @@ const Projects = () => {
           {
             _id: "5",
             title: "Spotify Clone – Music Streamer",
-            description: "Challenge: Creating a web-based music player that matches the performance and premium UI feel of high-end native apps.\nAction: Leveraged SCSS and modern JavaScript to implement high-fidelity playback controls and a sleek glassmorphic user interface.\nResult: Delivered a seamless, immersive streaming experience with a professional-grade aesthetic across all devices.",
+            description: "Challenge: Creating a web-based music player that matches the performance and premium UI feel of high-end native apps for everyday music listeners.\nAction: Implemented high-fidelity playback controls and a sleek glassmorphic user interface tailored for audiophiles and casual stream consumers.\nResult: Delivered a seamless, immersive streaming experience with a professional-grade aesthetic across all devices, elevating the user's music discovery journey.",
             image: "/projects/spotify.png",
             technologies: ["JavaScript", "HTML5", "SCSS", "Responsive Design"],
             link: "#",
